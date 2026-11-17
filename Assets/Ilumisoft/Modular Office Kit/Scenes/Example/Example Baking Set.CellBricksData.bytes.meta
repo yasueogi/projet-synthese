@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 620b0622625965b47a330fe2c41691cd
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194054
+  packageName: Modular Office Kit - Environment (HDRP)
+  packageVersion: 1.3
+  assetPath: Assets/Ilumisoft/Modular Office Kit/Scenes/Example/Example Baking Set.CellBricksData.bytes
+  uploadId: 682420
