@@ -23,4 +23,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_/Scenes/loop 2.unity
     guid: eb663ddcbde038f498abca881f1226d1
+  - enabled: 1
+    path: Assets/_/Scenes/loop3 3.unity
+    guid: c6f6808568b7d784d9c6c91655902cca
+  - enabled: 1
+    path: Assets/_/Scenes/loop3 1.unity
+    guid: abae34c157eef3844ba82a5bb903df34
+  - enabled: 1
+    path: Assets/_/Scenes/loop3 2.unity
+    guid: 14da970eed2eb484da05cfb85dddbf2c
   m_configObjects: {}
